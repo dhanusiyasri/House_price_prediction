@@ -59,17 +59,13 @@ The test set is kept unseen during training to evaluate model performance fairly
 ## 🗂 Project Structure
 
 house-price-prediction/
-
+```
 │
-
 ├── app.py # Streamlit web application
-
 ├── train.csv # Housing dataset
-
 ├── requirements.txt # Project dependencies
-
 └── README.md # Project documentation
-
+```
 ---
 
 ## ⚙️ Technologies Used

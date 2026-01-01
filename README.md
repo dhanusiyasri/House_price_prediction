@@ -87,11 +87,13 @@ pip install -r requirements.txt
 
 ### 2️⃣ Run the Streamlit App
 
-``` streamlit run app.py
+```bash
+ streamlit run app.py
 ```
 
 ### 3️⃣ Open in Browser
-``` http://localhost:8501
+```bash
+ http://localhost:8501
  ```
 
  ---

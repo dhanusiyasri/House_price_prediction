@@ -96,6 +96,12 @@ pip install -r requirements.txt
  http://localhost:8501
  ```
 
+ ### Direct Website link
+
+ ```bash
+https://house-price-prediction-ml-project-intern.streamlit.app/
+```
+
  ---
 
 

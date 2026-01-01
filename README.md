@@ -132,6 +132,6 @@ https://house-price-prediction-ml-project-intern.streamlit.app/
 ## 👩‍💻 Author
 
 Dhanusiya Sri M
+
 Computer Science Engineering Student
-Aspiring Machine Learning & Data Analytics Enthusiast
 
